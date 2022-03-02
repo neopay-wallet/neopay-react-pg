@@ -1,0 +1,20 @@
+{
+  "name": "neopay-react-pg",
+  "version": "1.0.0",
+  "description": "ReactJS SDK for NeoPay Payment Gateway",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neopay-wallet/neopay-react-pg.git"
+  },
+  "keywords": [],
+  "author": "NeoPay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neopay-wallet/neopay-react-pg/issues"
+  },
+  "homepage": "https://github.com/neopay-wallet/neopay-react-pg#readme"
+}
