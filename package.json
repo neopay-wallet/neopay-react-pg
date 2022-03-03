@@ -1,6 +1,6 @@
 {
   "name": "neopay-react-pg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ReactJS SDK for NeoPay Payment Gateway",
   "main": "index.js",
   "scripts": {
